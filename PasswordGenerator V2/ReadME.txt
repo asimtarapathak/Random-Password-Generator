@@ -13,7 +13,7 @@ Modules Used:
   Random -> For randomizing characters
   String -> For generating letters, numbers and punctuation
   pyperclip -> For copying to clipboard
-  cryptography -> For generating jey, loading key, encrypting and decryptinh file.
+  cryptography -> For generating jey, loading key, encrypting and decrypting file.
   
  
  Note:</b> You need to install PyQt5, pyperclip, cryptography before running the script else the program won't work.
