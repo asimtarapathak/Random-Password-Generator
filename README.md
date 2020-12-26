@@ -13,3 +13,6 @@ Modules Used:
 <br> To install these modules type this two commands in your terminal:
  <br>-> pip install pyqt5
  <br>-> pip install pyperclip
+
+<h3>Note: This read me is for PasswordGenerator</h3>
+<h4>For PasswordGenerator V2 you will get read me in its own directory</h4>
