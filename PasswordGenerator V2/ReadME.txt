@@ -9,16 +9,15 @@ encrypting and decrypting using cryptography python module. It is secure and wit
 can decrypt the encrypted password</h4>
 
 Modules Used:
-<ul>
-  <li>PyQt5</li> -> For GUI
-  <li>Random</li> -> For randomizing characters
-  <li>String</li> -> For generating letters, numbers and punctuation
-  <li>pyperclip</li> -> For copying to clipboard
-  <li>cryptography</li> -> For generating jey, loading key, encrypting and decryptinh file.
- </ul>
+  PyQt5 -> For GUI
+  Random -> For randomizing characters
+  String -> For generating letters, numbers and punctuation
+  pyperclip -> For copying to clipboard
+  cryptography -> For generating jey, loading key, encrypting and decryptinh file.
+  
  
- <b>Note:</b> You need to install PyQt5, pyperclip, cryptography before running the script else the program won't work.
-<br> To install these modules type this two commands in your terminal:
- <br>-> pip install pyqt5
- <br>-> pip install pyperclip
- <br>-> pip install cryptography
+ Note:</b> You need to install PyQt5, pyperclip, cryptography before running the script else the program won't work.
+ To install these modules type this two commands in your terminal:
+ -> pip install pyqt5
+ -> pip install pyperclip
+ -> pip install cryptography
