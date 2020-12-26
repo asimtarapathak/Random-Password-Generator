@@ -14,7 +14,7 @@ Modules Used:
   <li>Random</li> -> For randomizing characters
   <li>String</li> -> For generating letters, numbers and punctuation
   <li>pyperclip</li> -> For copying to clipboard
-  <li>cryptography</li> -> For generating key, loading key, encrypting and decryptinh file.
+  <li>cryptography</li> -> For generating key, loading key, encrypting and decrypting file.
  </ul>
  
  <b>Note:</b> You need to install PyQt5, pyperclip, cryptography before running the script else the program won't work.
